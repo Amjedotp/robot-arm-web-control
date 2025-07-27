@@ -69,11 +69,9 @@ robot-arm-web-control/
 - MySQL via phpMyAdmin
 - XAMPP (Apache + MySQL)
 
----
 
-##  Screenshot
 
-![Interface](robot_arm_ui_preview.png)
+
 
 ---
 
